@@ -2,9 +2,6 @@
 <html lang="en">
     <head>
     <meta charset="UTF-8">
-    <title>
-    My First Webpage
-    </title>
   </head>
 <h1>
 Done
